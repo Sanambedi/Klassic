@@ -4,7 +4,7 @@ import Home from './pages/Home/Home';
 
 const Routing = () =>{
     return(
-        <BrowserRouter>
+        <BrowserRouter basename='/'>
             <Routes>
                 <Route path="/" element={<Home />}/>   
             </Routes>
