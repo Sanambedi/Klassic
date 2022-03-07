@@ -2,32 +2,32 @@ import React from "react";
 
 const Results = () => {
   return (
-    <section class="cta-section ">
-      <div class="container">
-        <div class="cta position-relative">
-          <div class="row">
-            <div class="col-lg-3 col-md-6 col-sm-6">
-              <div class="counter-stat">
-                <i class="icofont-doctor"></i>
-                <span class="h3">58</span>k<p>Happy People</p>
+    <section className="cta-section ">
+      <div className="container">
+        <div className="cta position-relative">
+          <div className="row">
+            <div className="col-lg-3 col-md-6 col-sm-6">
+              <div className="counter-stat">
+                <i className="icofont-doctor"></i>
+                <span className="h3">58</span>k<p>Happy People</p>
               </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
-              <div class="counter-stat">
-                <i class="icofont-flag"></i>
-                <span class="h3">700</span>+<p>Surgery Comepleted</p>
+            <div className="col-lg-3 col-md-6 col-sm-6">
+              <div className="counter-stat">
+                <i className="icofont-flag"></i>
+                <span className="h3">700</span>+<p>Surgery Comepleted</p>
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 col-sm-6">
-              <div class="counter-stat">
-                <i class="icofont-badge"></i>
-                <span class="h3">40</span>+<p>Expert Doctors</p>
+            <div className="col-lg-3 col-md-6 col-sm-6">
+              <div className="counter-stat">
+                <i className="icofont-badge"></i>
+                <span className="h3">40</span>+<p>Expert Doctors</p>
               </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
-              <div class="counter-stat">
-                <i class="icofont-globe"></i>
+            <div className="col-lg-3 col-md-6 col-sm-6">
+              <div className="counter-stat">
+                <i className="icofont-globe"></i>
                 <span class="h3">20</span>
                 <p>Worldwide Branch</p>
               </div>

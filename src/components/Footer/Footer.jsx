@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -42,19 +43,19 @@ const Footer = () => {
 
               <ul class="list-unstyled footer-menu lh-35">
                 <li>
-                  <a href="#">Surgery </a>
+                  <Link to="/">Surgery </Link>
                 </li>
                 <li>
-                  <a href="#">Wome's Health</a>
+                  <Link to="/">Wome's Health</Link>
                 </li>
                 <li>
-                  <a href="#">Radiology</a>
+                  <Link to="/">Radiology</Link>
                 </li>
                 <li>
-                  <a href="#">Cardioc</a>
+                  <Link to="/">Cardioc</Link>
                 </li>
                 <li>
-                  <a href="#">Medicine</a>
+                  <Link to="/">Medicine</Link>
                 </li>
               </ul>
             </div>
@@ -67,19 +68,19 @@ const Footer = () => {
 
               <ul class="list-unstyled footer-menu lh-35">
                 <li>
-                  <a href="#">Terms & Conditions</a>
+                  <Link to="/">Terms & Conditions</Link>
                 </li>
                 <li>
-                  <a href="#">Privacy Policy</a>
+                  <Link to="/">Privacy Policy</Link>
                 </li>
                 <li>
-                  <a href="#">Company Support </a>
+                  <Link to="/">Company Support </Link>
                 </li>
                 <li>
-                  <a href="#">FAQuestions</a>
+                  <Link to="/">FAQuestions</Link>
                 </li>
                 <li>
-                  <a href="#">Company Licence</a>
+                  <Link to="/">Company Licence</Link>
                 </li>
               </ul>
             </div>
@@ -118,10 +119,7 @@ const Footer = () => {
             <div class="col-lg-6">
               <div class="copyright">
                 &copy; Copyright Reserved to{" "}
-                <span class="text-color">Novena</span> by{" "}
-                <a href="https://themefisher.com/" target="_blank">
-                  Themefisher
-                </a>
+                
               </div>
             </div>
             <div class="col-lg-6">
@@ -132,9 +130,9 @@ const Footer = () => {
                     class="form-control"
                     placeholder="Your Email address"
                   />
-                  <a href="#" class="btn btn-main-2 btn-round-full">
+                  <Link to="/" class="btn btn-main-2 btn-round-full">
                     Subscribe
-                  </a>
+                  </Link>
                 </form>
               </div>
             </div>

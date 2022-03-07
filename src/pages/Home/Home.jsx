@@ -1,13 +1,13 @@
 import React from "react";
-// import Appoinment from "../../components/Appointment/Appointment";
+import Appoinment from "../../components/Appointment/Appointment";
 import Card from "../../components/Card/Card";
-// import Footer from "../../components/Footer/Footer";
+import Footer from "../../components/Footer/Footer";
 import Header from "../../components/Header/Header";
-// import InfoSection from "../../components/InfoSection/InfoSection";
+import InfoSection from "../../components/InfoSection/InfoSection";
 import Jumbotron from "../../components/Jumbotron/Jumbotron";
-// import Results from "../../components/Results/Results";
-// import Slider from "../../components/Slider/Slider";
-// import Specialities from "../../components/Specialities/Specialities";
+import Results from "../../components/Results/Results";
+import Slider from "../../components/Slider/Slider";
+import Specialities from "../../components/Specialities/Specialities";
 const Home = () => {
   return (
     <div>
@@ -26,13 +26,13 @@ const Home = () => {
           </div>
         </div>
       </section>
-      {/*
       <InfoSection />
+      
       <Results />
       <Specialities />
       <Slider/>
       <Appoinment />
-      <Footer /> */}
+      <Footer />
     </div>
   );
 };
