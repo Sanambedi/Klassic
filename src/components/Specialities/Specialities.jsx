@@ -7,7 +7,7 @@ const Specialities = () => {
         <div className="row justify-content-center">
           <div className="col-lg-7 text-center">
             <div className="section-title">
-              <h2>Award winning patient care</h2>
+              <h2>Award winning customer care</h2>
               <div className="divider mx-auto my-4"></div>
               <p>
                 Lets know moreel necessitatibus dolor asperiores illum possimus
@@ -22,8 +22,8 @@ const Specialities = () => {
           <div className="col-lg-4 col-md-6 col-sm-6">
             <div className="service-item mb-4">
               <div className="icon d-flex align-items-center">
-                <i className="icofont-laboratory text-lg"></i>
-                <h4 className="mt-3 mb-3">Laboratory services</h4>
+                <i className="icofont-muscle text-lg"></i>
+                <h4 className="mt-3 mb-3">Strong Mouldings</h4>
               </div>
 
               <div className="content">
@@ -37,8 +37,8 @@ const Specialities = () => {
           <div className="col-lg-4 col-md-6 col-sm-6">
             <div className="service-item mb-4">
               <div className="icon d-flex align-items-center">
-                <i className="icofont-heart-beat-alt text-lg"></i>
-                <h4 className="mt-3 mb-3">Heart Disease</h4>
+                <i className="icofont-support text-lg"></i>
+                <h4 className="mt-3 mb-3">24/7 Customer Care</h4>
               </div>
               <div className="content">
                 <p className="mb-4">
@@ -51,8 +51,8 @@ const Specialities = () => {
           <div className="col-lg-4 col-md-6 col-sm-6">
             <div className="service-item mb-4">
               <div className="icon d-flex align-items-center">
-                <i className="icofont-tooth text-lg"></i>
-                <h4 className="mt-3 mb-3">Dental Care</h4>
+                <i className="icofont-help-robot text-lg"></i>
+                <h4 className="mt-3 mb-3">Innovative Designs</h4>
               </div>
               <div className="content">
                 <p className="mb-4">
@@ -65,8 +65,8 @@ const Specialities = () => {
           <div className="col-lg-4 col-md-6 col-sm-6">
             <div className="service-item mb-4">
               <div className="icon d-flex align-items-center">
-                <i className="icofont-crutch text-lg"></i>
-                <h4 className="mt-3 mb-3">Body Surgery</h4>
+                <i className="icofont-industries-5 text-lg"></i>
+                <h4 className="mt-3 mb-3">Excellent supply chain management</h4>
               </div>
 
               <div className="content">
@@ -80,8 +80,8 @@ const Specialities = () => {
           <div className="col-lg-4 col-md-6 col-sm-6">
             <div className="service-item mb-4">
               <div className="icon d-flex align-items-center">
-                <i className="icofont-brain-alt text-lg"></i>
-                <h4 className="mt-3 mb-3">Neurology Sargery</h4>
+                <i className="icofont-delivery-time text-lg"></i>
+                <h4 className="mt-3 mb-3">Timely Deliveries</h4>
               </div>
               <div className="content">
                 <p className="mb-4">
@@ -94,8 +94,8 @@ const Specialities = () => {
           <div className="col-lg-4 col-md-6 col-sm-6">
             <div className="service-item mb-4">
               <div className="icon d-flex align-items-center">
-                <i className="icofont-dna-alt-1 text-lg"></i>
-                <h4 className="mt-3 mb-3">Gynecology</h4>
+                <i className="icofont-award text-lg"></i>
+                <h4 className="mt-3 mb-3">Leading the Segment</h4>
               </div>
               <div className="content">
                 <p className="mb-4">

@@ -11,7 +11,7 @@ const Appoinment = () => {
               <img src="images/about/img-3.jpg" alt="" className="img-fluid" />
               <div className="emergency">
                 <h2 className="text-lg">
-                  <i className="icofont-phone-circle text-lg"></i>+23 345 67980
+                  <i className="icofont-phone-circle text-lg"></i> 9888557655
                 </h2>
               </div>
             </div>
