@@ -14,7 +14,7 @@ const Jumbotron = () =>{
                             
                             <p className="mb-4 pr-5">A repudiandae ipsam labore ipsa voluptatum quidem quae laudantium quisquam aperiam maiores sunt fugit, deserunt rem suscipit placeat.</p>
                             <div className="btn-container ">
-                                <Link to="/appoinment" className="btn btn-main-2 btn-icon btn-round-full">Make appoinment <i class="icofont-simple-right ml-2  "></i></Link>
+                                <Link to="/appoinment" className="btn btn-main-2 btn-icon btn-round-full">Make appoinment <i className="icofont-simple-right ml-2  "></i></Link>
                             </div>
                         </div>
                     </div>

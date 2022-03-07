@@ -13,11 +13,11 @@ const Home = () => {
     <div>
       <Header />
       <Jumbotron />
-      <section class="features">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <div class="feature-block d-lg-flex">
+      <section className="features">
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-12">
+              <div className="feature-block d-lg-flex">
                 <Card />
                 <Card />
                 <Card />
